@@ -1,7 +1,0 @@
-C:\Users\Yasmin\source\repos\FerminGroceryInventorySystem\FerminGroceryInventorySystem\obj\Debug\FerminGroceryInventorySystem.csproj.AssemblyReference.cache
-C:\Users\Yasmin\source\repos\FerminGroceryInventorySystem\FerminGroceryInventorySystem\obj\Debug\FerminGroceryInventorySystem.csproj.CoreCompileInputs.cache
-C:\Users\Yasmin\source\repos\FerminGroceryInventorySystem\FerminGroceryInventorySystem\bin\Debug\FerminGroceryInventorySystem.exe.config
-C:\Users\Yasmin\source\repos\FerminGroceryInventorySystem\FerminGroceryInventorySystem\bin\Debug\FerminGroceryInventorySystem.exe
-C:\Users\Yasmin\source\repos\FerminGroceryInventorySystem\FerminGroceryInventorySystem\bin\Debug\FerminGroceryInventorySystem.pdb
-C:\Users\Yasmin\source\repos\FerminGroceryInventorySystem\FerminGroceryInventorySystem\obj\Debug\FerminGroceryInventorySystem.exe
-C:\Users\Yasmin\source\repos\FerminGroceryInventorySystem\FerminGroceryInventorySystem\obj\Debug\FerminGroceryInventorySystem.pdb
